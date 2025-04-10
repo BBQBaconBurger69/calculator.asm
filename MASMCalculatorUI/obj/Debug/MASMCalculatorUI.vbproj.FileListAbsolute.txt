@@ -1,0 +1,16 @@
+C:\Users\Iman Neniman\source\repos\MASMCalculatorUI\bin\Debug\MASMCalculatorUI.exe.config
+C:\Users\Iman Neniman\source\repos\MASMCalculatorUI\bin\Debug\MASMCalculatorUI.exe
+C:\Users\Iman Neniman\source\repos\MASMCalculatorUI\bin\Debug\MASMCalculatorUI.pdb
+C:\Users\Iman Neniman\source\repos\MASMCalculatorUI\bin\Debug\MASMCalculatorUI.xml
+C:\Users\Iman Neniman\source\repos\MASMCalculatorUI\obj\Debug\MASMCalculatorUI.vbproj.AssemblyReference.cache
+C:\Users\Iman Neniman\source\repos\MASMCalculatorUI\obj\Debug\MASMCalculatorUI.Form1.resources
+C:\Users\Iman Neniman\source\repos\MASMCalculatorUI\obj\Debug\MASMCalculatorUI.Resources.resources
+C:\Users\Iman Neniman\source\repos\MASMCalculatorUI\obj\Debug\MASMCalculatorUI.vbproj.GenerateResource.cache
+C:\Users\Iman Neniman\source\repos\MASMCalculatorUI\obj\Debug\MASMCalculatorUI.vbproj.CoreCompileInputs.cache
+C:\Users\Iman Neniman\source\repos\MASMCalculatorUI\obj\Debug\MASMCalculatorUI.exe
+C:\Users\Iman Neniman\source\repos\MASMCalculatorUI\obj\Debug\MASMCalculatorUI.xml
+C:\Users\Iman Neniman\source\repos\MASMCalculatorUI\obj\Debug\MASMCalculatorUI.pdb
+C:\Users\Iman Neniman\source\repos\MASMCalculatorUI\bin\Debug\MASMCalculatorUI.exe.manifest
+C:\Users\Iman Neniman\source\repos\MASMCalculatorUI\bin\Debug\MASMCalculatorUI.application
+C:\Users\Iman Neniman\source\repos\MASMCalculatorUI\obj\Debug\MASMCalculatorUI.exe.manifest
+C:\Users\Iman Neniman\source\repos\MASMCalculatorUI\obj\Debug\MASMCalculatorUI.application
